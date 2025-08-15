@@ -18,6 +18,13 @@ body {
     box-shadow: 8px 8px 0 #888;
 }
 
+span.error {
+    display: none; /* Esconde por padrão */
+    font-size: 8px;
+    color: red;
+    margin-top: 2px;
+}
+
 h2 {
     text-align: center;
     margin-bottom: 20px;
